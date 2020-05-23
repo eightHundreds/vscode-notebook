@@ -2,6 +2,7 @@
 
 a markdown notebook plugin
 
+![Installs](https://vsmarketplacebadge.apphb.com/installs/eightHundreds.vscode-drawio.svg)
 
 ## Feature
 
@@ -47,23 +48,30 @@ automatically configure [Markdown Preview Enhanced](https://marketplace.visualst
 
 ![](images/docs/tag.gif)
 
-### Typora Integration
 
-(only work for mac os)
-
-![](images/docs/typora.png)
-
-
-### draw.io Integration (beta)
+### draw.io Integration
 
 ![](images/docs/drawio.gif)
 
 configuration
 
+- `notebook.drawHost`
+  - 'webview' as shown above，open a webview，embedded drawio website
+  - 'chrome' open chrome browser, embedded drawio website
+  - 'vscode-drawio' **recommend**，open `*.drawio.svg` directly，You can edit this file with the help of vscode extension `eighthundreds.vscode-drawio` or `hediet.vscode-drawio`
 - `notebook.drawIoSite` (default:http://draw.io)
-  - 国内可以用码云的pages服务部署drawio，这里有一个部署好的 `http://recodingstupid.gitee.io/drawio/`
-- `notebook.drawIoLang` (English is default)
-  - `zh` 是中文
+  - not work when `notebook.drawHost` is `vscode-drawio`
+- `notebook.drawIoLang` (English is default) 
+  - not work when `notebook.drawHost` is `vscode-drawio`
+
+
+### ~~ Typora Integration~~ 
+(only work for mac os)  
+
+No more maintenance  
+
+![](images/docs/typora.png)
+
 
 ## TODO 
 
