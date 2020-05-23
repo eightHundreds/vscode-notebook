@@ -2,7 +2,8 @@
 
 a markdown notebook plugin
 
-![Installs](https://vsmarketplacebadge.apphb.com/installs/eightHundreds.vscode-drawio.svg)
+![Marketplace](https://vsmarketplacebadge.apphb.com/version/eightHundreds.vscode-notebook.svg)
+![Installs](https://vsmarketplacebadge.apphb.com/installs/eightHundreds.vscode-notebook.svg)
 
 ## Feature
 
