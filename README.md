@@ -77,7 +77,6 @@ No more maintenance
 ## TODO 
 
 - [x] notebook link
-- [x] support window
 - [x] save and commit command  
 - [x] tag
 - [x] drawio
