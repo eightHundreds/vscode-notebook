@@ -2,8 +2,8 @@
 
 a markdown notebook plugin
 
-![Marketplace](https://vsmarketplacebadge.apphb.com/version/eightHundreds.vscode-notebook.svg)
-![Installs](https://vsmarketplacebadge.apphb.com/installs/eightHundreds.vscode-notebook.svg)
+![Marketplace](https://vsmarketplacebadge.apphb.com/version/eightHundreds.notebook.svg)
+![Installs](https://vsmarketplacebadge.apphb.com/installs/eightHundreds.notebook.svg)
 
 ## Feature
 
