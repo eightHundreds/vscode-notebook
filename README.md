@@ -80,4 +80,4 @@ No more maintenance
 - [x] save and commit command  
 - [x] tag
 - [x] drawio
-- [ ] mindmap 
+- [x] mindmap 
